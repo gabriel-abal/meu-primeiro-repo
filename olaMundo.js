@@ -1,1 +1,2 @@
-console.log("Olá, João");
+console.log("Olá, Mundo!");
+console.log("Olá, dia!");
